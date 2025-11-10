@@ -1,4 +1,4 @@
-CRUD Estudiantes
+## CRUD Estudiantes
 
 ## Información
 **Nombre:** Brenda Cecilia Guillen Garcia 22151246
@@ -11,7 +11,7 @@ Sistema web desarrollado con **Laravel** y **Tailwind** para la gestión integra
 La plataforma facilita el mantenimiento de registros estudiantiles con operaciones de creación, consulta, actualización y eliminación, garantizando la integridad de datos mediante validaciones avanzadas y relaciones de base de datos.
 
 
-## 🚀 Características del Sistema
+## Características del Sistema
 
 ### Gestión de Estudiantes
 - Registrar nuevos estudiantes
